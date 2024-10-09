@@ -58,7 +58,7 @@ The `fetch` has already been done for you in `BadgerBuds.jsx`. Instead of fetchi
 
 ### 3. Make Display Responsive
 
-Use [React-Bootstrap's grid system](https://react-bootstrap.github.io/layout/grid/) so that your design is responsive. There are no strict requirements for which breakpoints to use, but your design should display more columns on larger devices. Try resizing your window to test this.
+Use [React-Bootstrap's grid system](https://react-bootstrap.github.io/docs/layout/grid) so that your design is responsive. There are no strict requirements for which breakpoints to use, but your design should display more columns on larger devices. Try resizing your window to test this.
 
 ![](_figures/step3.png)
 
